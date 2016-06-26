@@ -4,10 +4,12 @@ The Application provides an option to search for pictures in Flickr using a keyw
 
 The application provided  pictures list consists of all the pictures matching with the keyword.
 
-For the Developer
+Developer
+
 The following description provides the detailed information on how the application is structured
+
 1) MainActivity
-   - Main Activity is the entry point for the Android Zygote system to the application
+	- Main Activity is the entry point for the Android Zygote system to the application
 
 2) MVC architecture is followed in the development of My Flickr application
 	Model 	- ImageRepostory Class handles all the data & model tasks
